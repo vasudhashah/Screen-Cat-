@@ -1,2 +1,2 @@
 # Screen-Cat-
-App Same as Talking Tom just with small functionality
+App Same as Talking Tom just with small functionalities
